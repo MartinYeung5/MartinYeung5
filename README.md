@@ -94,6 +94,26 @@
 
 ---
 
+### ☕ 支持我 / Sponsor Me
+
+如果你覺得我的專案或分享對你有幫助，歡迎支持我！
+
+<div align="center">
+
+  <!-- 加密貨幣打賞 -->
+  **加密貨幣支持（Crypto）**：
+
+  | 幣種 | 地址 / Link |
+  |------|-------------|
+  | **ETH / USDT (ERC20)** | `0x39E95F83F2d991664cAd2959f4bD7Fb517462aB6` |
+
+  **其他方式**：
+  - [Ko-fi](https://ko-fi.com/martinyeung)
+
+</div>
+
+---
+
 <div align="center">
   <i>「持續探索密碼學與區塊鏈的邊界，致力於讓複雜技術變得更易理解與應用」</i>
 </div>
