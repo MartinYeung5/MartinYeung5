@@ -4,13 +4,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20I'm%20MartinYeung5&fontSize=80&animation=fadeIn" />
 
   <h2>👋 Web3 Developer & Zero-Knowledge Proof Enthusiast</h2>
-  
-  **專注於零知識證明 (ZKP)、Plonk 協議、區塊鏈基礎設施與高效能應用開發**
-
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MartinYeung5)
-  [![Website](https://img.shields.io/badge/Website-martinyeung5.github.io-00B4FF)](https://martinyeung5.github.io)
 
 </div>
+
+---
+
+### 👨‍💻 About Me
+
+我是 **MartinYeung5**，一位熱衷於區塊鏈與密碼學的 Web3 開發者。  
+目前專注於 **Zero-Knowledge Proof (ZKP)** 領域，特別是 **Plonk 協議** 的學習與實作。我相信零知識證明技術將會是下一代區塊鏈的可擴展性與隱私保護的核心。
+
+從傳統軟體開發轉入 Web3 後，我深深被區塊鏈的去中心化精神與密碼學的數學之美所吸引。過去一年多，我投入大量時間研究 Plonk、Groth16、Circom 等 ZKP 工具，並透過實作多個專案來加深理解。目前正在探索 Halo2、zkEVM 以及如何將 ZKP 技術應用到實際的去中心化應用中。
+
+**我的目標**：  
+- 打造易懂、高效能的 ZKP 教育工具，讓更多開發者能快速上手  
+- 參與有意義的 Web3 開源項目  
+- 持續在 Avalanche、0G 等生態中累積實戰經驗  
+
+除了寫程式，我還喜歡閱讀密碼學論文、整理學習筆記，並樂於與社群分享所學。歡迎對 ZKP、Plonk、區塊鏈基礎設施或 Web3 開發有興趣的朋友一起交流！
 
 ---
 
@@ -18,14 +29,14 @@
 
 <div align="center">
 
-<!-- 主要統計卡片 - 包含 Private Repo -->
+  <!-- 主統計卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=MartinYeung5&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="190" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYeung5&layout=compact&theme=radical&count_private=true&hide_border=true&hide=html,css" height="190" />
 
-  <!-- Streak Stats（改用較穩定版本） -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MartinYeung5&theme=radical&hide_border=true" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinYeung5&theme=radical&hide_border=true" />
 
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=MartinYeung5&theme=radical&no-bg=true&margin-w=15" />
@@ -36,21 +47,21 @@
 
 ### 🚀 專注領域
 
-- **Zero-Knowledge Proof**：Plonk、Groth16、Circom、Halo2 等
-- **Smart Contract**：Solidity 開發與安全
-- **Layer 1 / Layer 2**：Avalanche、0G 生態開發
+- **Zero-Knowledge Proof**：Plonk、Groth16、Circom、Halo2
+- **Smart Contract 開發**：Solidity 與合約安全
+- **Layer 1 / Layer 2 生態**：Avalanche、0G 等
 - ZKP 教育工具與開源貢獻
 
 ---
 
 ### 📌 精選專案
 
-| 專案 | 描述 | 技術 |
-|------|------|------|
-| **[baby-plonk-0](https://github.com/MartinYeung5/baby-plonk-0)** | 教育型簡化 Plonk 實作 | Rust / Plonk |
-| **[20240770_ZKP_Plonk](https://github.com/MartinYeung5/20240770_ZKP_Plonk)** | ZKP 核心學習與實作專案 | Plonk |
-| **[0g-eliza](https://github.com/MartinYeung5/0g-eliza)** | 0G 生態 AI 對話代理 | 0G + AI |
-| **[avalanche-starter-kit](https://github.com/MartinYeung5/avalanche-starter-kit)** | Avalanche 快速開發模板 | Solidity / Avalanche |
+| 專案 | 描述 | 主要技術 |
+|------|------|---------|
+| **[baby-plonk-0](https://github.com/MartinYeung5/baby-plonk-0)** | 教育型簡化 Plonk 實作，適合初學者理解核心概念 | Rust / Plonk |
+| **[20240770_ZKP_Plonk](https://github.com/MartinYeung5/20240770_ZKP_Plonk)** | ZKP 核心學習與實作專案 | Plonk 協議 |
+| **[0g-eliza](https://github.com/MartinYeung5/0g-eliza)** | 基於 0G 生態的 AI 對話代理 | 0G + AI |
+| **[avalanche-starter-kit](https://github.com/MartinYeung5/avalanche-starter-kit)** | Avalanche 開發快速入門模板 | Solidity / Avalanche |
 
 ---
 
@@ -76,14 +87,14 @@
 
 ---
 
-### 👀 其他資訊
+### 👀 聯絡與資訊
 
 - **個人網站**： [martinyeung5.github.io](https://martinyeung5.github.io)
 - **訪客計數**： ![Visitor](https://komarev.com/ghpvc/?username=MartinYeung5&color=radical&style=flat)
-- **目前狀態**：積極學習與開發 ZKP 相關技術，歡迎交流與合作
+- **開放合作**：歡迎 ZKP、Web3 開發、開源項目相關的討論與合作
 
 ---
 
 <div align="center">
-  <i>「持續探索區塊鏈與密碼學的邊界」</i>
+  <i>「持續探索密碼學與區塊鏈的邊界，致力於讓複雜技術變得更易理解與應用」</i>
 </div>
