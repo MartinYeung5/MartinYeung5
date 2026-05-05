@@ -21,11 +21,11 @@
 <!-- 主要統計卡片 - 包含 Private Repo -->
   <img src="https://github-readme-stats.vercel.app/api?username=MartinYeung5&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="190" />
 
-  <!-- Top Languages - 包含 Private Repo -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYeung5&layout=compact&theme=radical&count_private=true&hide_border=true&hide=html,css" height="190" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinYeung5&theme=radical&hide_border=true" />
+  <!-- Streak Stats（改用較穩定版本） -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MartinYeung5&theme=radical&hide_border=true" />
 
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=MartinYeung5&theme=radical&no-bg=true&margin-w=15" />
