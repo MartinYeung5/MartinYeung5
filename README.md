@@ -18,10 +18,10 @@
 
 <div align="center">
 
-  <!-- 主統計卡片 -->
+<!-- 主要統計卡片 - 包含 Private Repo -->
   <img src="https://github-readme-stats.vercel.app/api?username=MartinYeung5&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="190" />
 
-  <!-- Top Languages -->
+  <!-- Top Languages - 包含 Private Repo -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYeung5&layout=compact&theme=radical&count_private=true&hide_border=true&hide=html,css" height="190" />
 
   <!-- Streak Stats -->
