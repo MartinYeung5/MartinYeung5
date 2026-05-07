@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub 統計數據（已包含 Private Repositories）
+### 📊 GitHub 統計數據
 
 <div align="center">
 
