@@ -53,6 +53,12 @@
 
 ---
 
+### 個人文章
+
+- https://ithelp.ithome.com.tw/users/20119569/ironman/8057
+
+---
+
 ### 📌 精選專案
 
 | 專案 | 描述 | 主要技術 |
