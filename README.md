@@ -104,7 +104,7 @@
 
 - **個人網站**： [martinyeung5.github.io](https://martinyeung5.github.io)
 - **訪客計數**： ![Visitor](https://komarev.com/ghpvc/?username=MartinYeung5&color=radical&style=flat)
-- **開放合作**：歡迎 ZKP、Web3 開發、開源項目相關的討論與合作
+- **開放合作**：歡迎 ZKP、Web3 開發、隱私保護、數字安全、開源項目相關的討論與合作
 
 ---
 
