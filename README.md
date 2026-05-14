@@ -107,7 +107,7 @@
 - **開放合作**：歡迎 ZKP、Web3 開發、隱私保護、數字安全、開源項目相關的討論與合作
 
 ---
-### ☕ 商業合作 / Business0
+### ☕ 商業合作 / Business
 - **Email/電郵**: martinyeung8888@gmail.com
 
 ---
