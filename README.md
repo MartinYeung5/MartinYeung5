@@ -50,6 +50,9 @@
 - **Smart Contract 開發**：Solidity, Move
 - **Layer 1 / Layer 2 生態**：Avalanche, 0G, Polkadot, Aptos, Sui, Near, Ethereum 等
 - ZKP 教育工具與開源貢獻
+- AI Agent
+- 數字安全
+- 隱私保護
 
 ---
 
