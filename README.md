@@ -60,7 +60,7 @@
 
 ---
 
-### 個人文章
+### 個人文章(系列)
 
 * 零知識證明-走進PLONK世界: https://ithelp.ithome.com.tw/users/20119569/ironman/8057
 * 後量子密碼學-走進Lattice世界: https://ithelp.ithome.com.tw/users/20119569/ironman/8511
