@@ -108,7 +108,7 @@
 
 ---
 ### ☕ 商業合作 / Business
-- **Email/電郵**: martinyeung8888@gmail.com
+- **電郵/Email**: martinyeung8888@gmail.com
 
 ---
 
