@@ -91,6 +91,8 @@
   <img src="https://img.shields.io/badge/Circom-FF4F00?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Avalanche-FF4F00?logo=avalanche&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero_Knowledge-8A2BE2?logo=proof&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-FF4F00?logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suie-FF4F00?logo=sui&logoColor=white" />
 </div>
 
 ---
