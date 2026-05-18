@@ -60,6 +60,7 @@
 
 * Medium: https://medium.com/@martinyeunghk
 * IT: https://ithelp.ithome.com.tw/users/20119569/ironman
+* JueJin: https://juejin.cn/user/1378102910651705/posts
 
 ---
 
