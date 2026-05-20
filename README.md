@@ -55,10 +55,10 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 
 ---
 
-### 🚀 專注領域
+### 🚀 專注領域 / Focus Areas
 
-- **Zero-Knowledge Proof**：Plonk, Groth16, Circom, Halo2
-- **Smart Contract 開發**：Solidity, Move
+- **零知識證明 / Zero-Knowledge Proof**：Plonk, Groth16, Circom, Halo2
+- **智能合約開發 /Smart Contract development**：Solidity, Move
 - **Layer 1 / Layer 2 生態**：Avalanche, 0G, Polkadot, Aptos, Sui, Near, Ethereum 等
 - ZKP 教育工具與開源貢獻
 - AI Agent
