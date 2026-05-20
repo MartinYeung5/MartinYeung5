@@ -35,7 +35,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 
 ---
 
-### 📊 GitHub 統計數據
+### 📊 GitHub 統計數據 / GitHub Statistics
 
 <div align="center">
 
