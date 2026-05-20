@@ -62,12 +62,12 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 - **Layer 1 / Layer 2 生態系統 / (Layer 1 / Layer 2 Ecosystems)**：Avalanche, 0G, Polkadot, Aptos, Sui, Near, Ethereum 等
 - ZKP 教育工具與開源貢獻 / ZKP Education Tools & Open Source Contributions
 - AI Agent
-- 數字安全
-- 隱私保護
+- 數字安全 / Digital Security
+- 隱私保護 / Privacy Protection
 
 ---
 
-### 個人blog
+### 個人博客 / Personal Blog
 
 * Medium: https://medium.com/@martinyeunghk
 * IT: https://ithelp.ithome.com.tw/users/20119569/ironman
