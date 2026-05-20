@@ -59,7 +59,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 
 - **零知識證明 / Zero-Knowledge Proof**：Plonk, Groth16, Circom, Halo2
 - **智能合約開發 /Smart Contract development**：Solidity, Move
-- **Layer 1 / Layer 2 生態**：Avalanche, 0G, Polkadot, Aptos, Sui, Near, Ethereum 等
+- **Layer 1 / Layer 2 生態系統 / (Layer 1 / Layer 2 Ecosystems)**：Avalanche, 0G, Polkadot, Aptos, Sui, Near, Ethereum 等
 - ZKP 教育工具與開源貢獻
 - AI Agent
 - 數字安全
