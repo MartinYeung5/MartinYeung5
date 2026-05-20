@@ -22,6 +22,17 @@
 
 除了寫程式，我還喜歡閱讀密碼學論文、整理學習筆記，並樂於與社群分享所學。歡迎對密碼學、區塊鏈或 AI開發有興趣的朋友一起交流！
 
+I am **MartinYeung5**, a senior computer engineer specializing in cryptography and Web3 + AI research, with extensive experience in the research and development of smart contracts (blockchain/Web3).
+I am currently focusing on the field of Zero-Knowledge Proofs (ZKP), particularly the study and implementation of the Plonk protocol. I believe that zero-knowledge proof technology will become the core of scalability and privacy protection for the next generation of blockchains.
+After transitioning from traditional software development to Web3, I have been deeply drawn to the decentralized spirit of blockchain and the mathematical beauty of cryptography. Over the past five-plus years, I have devoted a significant amount of time to studying ZKP tools such as Plonk, Groth16, and Circom, and have deepened my understanding through the implementation of multiple projects.
+
+**My goals**:
+- Focus on areas related to digital security and privacy protection, and build efficient yet secure tools.
+- Participate in meaningful Web3 open-source projects (especially those related to digital security).
+- Continuously accumulate hands-on experience within the Web3 ecosystem.
+
+In addition to coding, I also enjoy reading cryptography papers, organizing study notes, and sharing what I’ve learned with the community. I welcome friends who are interested in cryptography, blockchain, or AI development to connect and exchange ideas!
+
 ---
 
 ### 📊 GitHub 統計數據
