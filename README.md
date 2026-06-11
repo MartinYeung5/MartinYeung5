@@ -147,5 +147,3 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 <div align="center">
   <i>「持續探索密碼學與區塊鏈的邊界，致力於讓複雜技術變得更易理解與應用」</i>
 </div>
-
-
