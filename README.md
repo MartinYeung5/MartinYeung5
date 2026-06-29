@@ -101,6 +101,8 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-3178C6?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-3178C6?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Circom-FF4F00?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Avalanche-FF4F00?logo=avalanche&logoColor=white" />
