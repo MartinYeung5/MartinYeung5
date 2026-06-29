@@ -130,7 +130,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 ### 👀 聯絡與資訊
 
 - **個人網站**： [martinyeung5.github.io](https://martinyeung5.github.io)
-- **開放合作**：歡迎 ZKP、Web3 開發、隱私保護、數字安全、開源項目相關的討論與合作
+- **開放合作**：歡迎 ZKP、Web3 開發、AI 開發、隱私保護、數字安全、開源項目相關的討論與合作
 
 ---
 ### ☕ 商業合作 / Business
