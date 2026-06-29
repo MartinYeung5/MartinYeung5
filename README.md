@@ -97,8 +97,10 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 
 <div align="center">
   <img src="https://img.shields.io/badge/Solidity-36334F?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move-36334F?logo=move&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Circom-FF4F00?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Avalanche-FF4F00?logo=avalanche&logoColor=white" />
