@@ -105,6 +105,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
   <img src="https://img.shields.io/badge/Zero_Knowledge-8A2BE2?logo=proof&logoColor=white" />
   <img src="https://img.shields.io/badge/Aptos-FF4F00?logo=aptos&logoColor=white" />
   <img src="https://img.shields.io/badge/Sui-FF4F00?logo=sui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Near-FF4F00?logo=near&logoColor=white" />
 </div>
 
 ---
