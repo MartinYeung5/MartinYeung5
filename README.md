@@ -67,29 +67,35 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 
 ---
 
-### 個人博客 / Personal Blog
+## 📝 個人博客 / Personal Blog
 
-* Medium: https://medium.com/@martinyeunghk
-* IT: https://ithelp.ithome.com.tw/users/20119569/ironman
-* CSDN: https://blog.csdn.net/HK2KING?type=blog
-
----
-
-### 個人文章(系列)
-
-* 零知識證明-走進PLONK世界: https://ithelp.ithome.com.tw/users/20119569/ironman/8057
-* 後量子密碼學-走進Lattice世界: https://ithelp.ithome.com.tw/users/20119569/ironman/8511
+- **Medium** – [https://medium.com/@martinyeunghk](https://medium.com/@martinyeunghk)  
+- **IT 邦幫忙** – [https://ithelp.ithome.com.tw/users/20119569/ironman](https://ithelp.ithome.com.tw/users/20119569/ironman)  
+- **CSDN** – [https://blog.csdn.net/HK2KING?type=blog](https://blog.csdn.net/HK2KING?type=blog)
 
 ---
 
-### 個人研發的工具
+## 📚 個人文章（系列） / Article Series
 
-* llm-up-guardrail: LLM 防火牆 (守護數字安全及私隱安全):
-https://www.npmjs.com/package/@martin_yeung/llm-up-guardrail?__cf_chl_f_tk=X_qvsIOFAaEq2npm.G4OzEjxTzt49RWMhkz36qoqjNc-1783241629-1.0.1.1-g.AotaMMkagKljX2ajohLSiX4hZ09f_SWmfa_468dgg
+- **零知識證明 – 走進 PLONK 世界**  
+  [https://ithelp.ithome.com.tw/users/20119569/ironman/8057](https://ithelp.ithome.com.tw/users/20119569/ironman/8057)
 
-* up-coding-agent: An intelligent TypeScript-based coding agent with LLM integration support:
-- https://www.npmjs.com/package/up-coding-agent
-- https://github.com/MartinYeung5/up-coding-agent-test
+- **後量子密碼學 – 走進 Lattice 世界**  
+  [https://ithelp.ithome.com.tw/users/20119569/ironman/8511](https://ithelp.ithome.com.tw/users/20119569/ironman/8511)
+
+---
+
+## 🛠️ 個人研發的工具 / Personal Tools
+
+### 🔹 llm-up-guardrail  
+**LLM 防火牆（守護數字安全及私隱安全）**  
+- NPM: [https://www.npmjs.com/package/@martin_yeung/llm-up-guardrail](https://www.npmjs.com/package/@martin_yeung/llm-up-guardrail?__cf_chl_f_tk=X_qvsIOFAaEq2npm.G4OzEjxTzt49RWMhkz36qoqjNc-1783241629-1.0.1.1-g.AotaMMkagKljX2ajohLSiX4hZ09f_SWmfa_468dgg)
+
+### 🔹 up-coding-agent  
+**An intelligent TypeScript-based coding agent with LLM integration support**  
+- NPM: [https://www.npmjs.com/package/up-coding-agent](https://www.npmjs.com/package/up-coding-agent)  
+- GitHub: [https://github.com/MartinYeung5/up-coding-agent-test](https://github.com/MartinYeung5/up-coding-agent-test)
+
 ---
 
 ### 📌 精選專案/項目
