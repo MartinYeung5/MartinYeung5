@@ -88,7 +88,8 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 https://www.npmjs.com/package/@martin_yeung/llm-up-guardrail?__cf_chl_f_tk=X_qvsIOFAaEq2npm.G4OzEjxTzt49RWMhkz36qoqjNc-1783241629-1.0.1.1-g.AotaMMkagKljX2ajohLSiX4hZ09f_SWmfa_468dgg
 
 * up-coding-agent: An intelligent TypeScript-based coding agent with LLM integration support:
-https://www.npmjs.com/package/up-coding-agent
+- https://www.npmjs.com/package/up-coding-agent
+- https://github.com/MartinYeung5/up-coding-agent-test
 ---
 
 ### 📌 精選專案/項目
