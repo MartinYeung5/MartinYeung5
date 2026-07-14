@@ -98,7 +98,7 @@ https://www.npmjs.com/package/up-coding-agent
 | **[baby-plonk-0](https://github.com/MartinYeung5/baby-plonk-0)** | 教育型簡化 Plonk 實作，適合初學者理解核心概念 | Rust / Plonk |
 | **[20240770_ZKP_Plonk](https://github.com/MartinYeung5/20240770_ZKP_Plonk)** | ZKP 核心學習與實作專案 | Plonk 協議 |
 | **[0g-eliza](https://github.com/MartinYeung5/0g-eliza)** | 基於 0G 生態的 AI 對話代理 | 0G + AI |
-| **[avalanche-starter-kit](https://github.com/MartinYeung5/avalanche-starter-kit)** | Avalanche 開發快速入門模板 | Solidity / Avalanche |
+| **[DC Agent Castle]([https://github.com/MartinYeung5/avalanche-starter-kit](https://20260303-dc-agent-castle-version-2-qxtv-bgswis9h2.vercel.app/))** | Avalanche Game| Solidity / Avalanche |
 
 ---
 
