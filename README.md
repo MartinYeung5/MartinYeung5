@@ -94,7 +94,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 ### 🔹 up-coding-agent  
 **An intelligent TypeScript-based coding agent with LLM integration support**  
 - NPM: [https://www.npmjs.com/package/up-coding-agent](https://www.npmjs.com/package/up-coding-agent)  
-- GitHub: [https://github.com/MartinYeung5/up-coding-agent-test](https://github.com/MartinYeung5/up-coding-agent-test)
+- GitHub Test: [https://github.com/MartinYeung5/up-coding-agent-test](https://github.com/MartinYeung5/up-coding-agent-test)
 
 ---
 
