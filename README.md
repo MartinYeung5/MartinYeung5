@@ -131,6 +131,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
   <img src="https://img.shields.io/badge/Polkadot-FF4F00?logo=polkadot&logoColor=white" />
   <img src="https://img.shields.io/badge/Starknet-FF4F00?logo=starknet&logoColor=white" />
   <img src="https://img.shields.io/badge/Injective-FF4F00?logo=injective&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-FF4F00?logo=Supabase&logoColor=white" />
 </div>
 
 ---
