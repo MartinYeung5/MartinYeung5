@@ -96,6 +96,11 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 - NPM: [https://www.npmjs.com/package/up-coding-agent](https://www.npmjs.com/package/up-coding-agent)  
 - GitHub Test: [https://github.com/MartinYeung5/up-coding-agent-test](https://github.com/MartinYeung5/up-coding-agent-test)
 
+### 🔹 DC Scameter
+**A Comprehensive Professional Analysis for risk level**  
+- Website: https://dc-scameter.vercel.app/
+
+
 ---
 
 ### 📌 精選專案/項目
