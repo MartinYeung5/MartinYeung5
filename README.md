@@ -98,7 +98,7 @@ In addition to coding, I also enjoy reading cryptography papers, organizing stud
 - GitHub Test: [https://github.com/MartinYeung5/up-coding-agent-test](https://github.com/MartinYeung5/up-coding-agent-test)
 
 ### 🔹 DC Scameter
-**A Comprehensive Professional Analysis for risk level**  
+**A Comprehensive Analysis for risk level**  
 - Website: https://dc-scameter.vercel.app/
 
 
