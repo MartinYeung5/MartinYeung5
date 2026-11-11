@@ -7,7 +7,6 @@
 </div>
 ---
 
-
 ### 👨‍💻 About Me
 
 I am **MartinYeung5**, a senior computer engineer specializing in cryptography and Web3 + AI research, with extensive experience in smart contract (blockchain/Web3) research and development.
