@@ -5,7 +5,6 @@
   <h2>👋 Web3 Developer & Zero-Knowledge Proof Enthusiast</h2>
 
 </div>
-
 ---
 
 ### 👨‍💻 About Me
