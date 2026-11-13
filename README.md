@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20I'm%20MartinYeung5&fontSize=80&animation=fadeIn" />
 
   <h2>👋 Web3 Developer & Zero-Knowledge Proof Enthusiast</h2>
-
 </div>
 ---
 
