@@ -20,7 +20,6 @@ After transitioning from traditional software development to Web3, I have been d
 - Continuously accumulate hands-on experience within the Web3 ecosystem
 
 Beyond coding, I enjoy reading cryptography papers, organizing study notes, and sharing what I've learned with the community. I welcome anyone interested in cryptography, blockchain, or AI development to connect and exchange ideas!
-
 ---
 
 ### 📊 GitHub Statistics
